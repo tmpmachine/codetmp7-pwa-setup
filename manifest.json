@@ -1,0 +1,14 @@
+{
+  "name": "Untitled App",
+  "start_url": "index.html",
+  "icons": [
+    {
+      "src": "https://drive.google.com/uc?id=1XeryNvXsUFsU1ObJIq2uifjYfjvjkxbd&export=download",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "display": "standalone",
+  "background_color": "#202020",
+  "theme_color": "#202020"
+}
