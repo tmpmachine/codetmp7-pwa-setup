@@ -1,0 +1,7 @@
+{
+  "root": [
+    "pwa.js",
+    "index.html",
+    "manifest.json"
+  ]
+}
